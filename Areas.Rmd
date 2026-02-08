@@ -1,0 +1,18 @@
+---
+title: "Areas"
+author: "Lucas Matarredona Sempere"
+date: "2026-02-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Área círculo
+
+```{r}
+r <- 0.5
+Area <- pi*r^2
+```
+
