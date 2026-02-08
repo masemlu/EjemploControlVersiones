@@ -31,3 +31,10 @@ area_triangulo <- function(b, h) {
 }
 ```
 
+# Área rectangulo
+
+```{r}
+area_rectangulo <- function(b, h) {
+  b * h
+}
+```
